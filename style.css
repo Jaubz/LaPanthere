@@ -453,10 +453,11 @@ nav .caret {
     margin: 0 0 5px 5px;
 }
 
-.btn
+.btn :focus
 .btn-d,
 .btn-d:hover,
-.btn-d:focus {
+.btn-d:focus
+.bloc-button :focus {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
 }
