@@ -1045,3 +1045,6 @@ h4 {
         text-align: center;
     }
 }
+.cta-hero:focus{
+    background-color: #F3976C;
+}
